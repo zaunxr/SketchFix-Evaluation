@@ -354,15 +354,15 @@ projList = ["Chart", "Math", "Lang", "Closure"]
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # These paths must be set:
 # Here the results of SketchFix will be inserted.
-resultPath = "/home/daniel/SketchFix-Evaluation/SketchFix-Results"
+resultPath = "/home/daniel/SketchFix_Evaluation/SketchFix-Results"
 # The folder where the SketchFix master lies.
-supportPath = "/home/daniel/SketchFix-Evaluation/SketchFix-master/support"
+supportPath = "/home/daniel/SketchFix_Evaluation/SketchFix-master/support"
 # The folder where Defects4J project are.
-projRootPath = "/home/daniel/SketchFix-Evaluation/Defects4J"
+projRootPath = "/home/daniel/SketchFix_Evaluation/Defects4J"
 # The folder where the Jars for SketchFix are listed.
-jarRootPath = "/home/daniel/SketchFix-Evaluation/SketchFix-Jars"
+jarRootPath = "/home/daniel/SketchFix_Evaluation/SketchFix_Jars"
 # The folder where the Sketches are located.
-sketchesPath = "/home/daniel/SketchFix-Evaluation/SketchFix-Sketches"
+sketchesPath = "/home/daniel/SketchFix_Evaluation/SketchFix-Sketches"
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 # Start:
