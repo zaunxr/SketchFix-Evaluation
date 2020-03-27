@@ -1,0 +1,8 @@
+##################################################################### 
+				   RESULTS	FOR Lang
+
+ #####################################################################
+ Total Plausible patches: 101 
+ Invalid patches: 78
+ Total time for patches in seconds: 144.32973289489746
+ Total time for patches in minutes: 2.405495548248291

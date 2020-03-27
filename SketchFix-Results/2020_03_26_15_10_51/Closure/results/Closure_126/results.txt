@@ -1,0 +1,14 @@
+##################################################################### 
+				       RESULTS FOR Closure_126
+
+ #####################################################################
+ Total Plausible patches: 0
+ Total time for Plausible patches in seconds: 0
+ Total time for Plausible patches in seconds: 0.0
+ Total nonvalid patches: 21
+ Total time for nonvalid patches in seconds: 249.7892301082611
+ Total time for nonvalid patches in seconds: 4.1631538351376856
+
+Total patches: 21
+Total time in seconds: 249.7892301082611
+Total time in minutess: 4.1631538351376856

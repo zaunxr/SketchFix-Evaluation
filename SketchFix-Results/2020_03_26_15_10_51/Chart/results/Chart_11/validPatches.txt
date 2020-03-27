@@ -1,0 +1,28 @@
+##################################################################### 
+PatchName: ShapeUtilities.java-mem-4-0
+PatchTime: 13.178443908691406
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+
+##################################################################### 
+PatchName: ShapeUtilities.java-am-5-0
+PatchTime: 13.285849332809448
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+
+##################################################################### 
+PatchName: ShapeUtilities.java-am-4-0
+PatchTime: 14.0244779586792
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+
+##################################################################### 
+PatchName: ShapeUtilities.java-mem-5-0
+PatchTime: 12.698136568069458
+     [java] Generate 3 candidates for the type class java.awt.geom.GeneralPath: [p1, p2, null]
+     [java]  Hole 0	p2
+     [java] Space: 2
+

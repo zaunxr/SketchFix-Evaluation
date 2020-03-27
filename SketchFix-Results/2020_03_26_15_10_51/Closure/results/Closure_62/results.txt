@@ -1,0 +1,14 @@
+##################################################################### 
+				       RESULTS FOR Closure_62
+
+ #####################################################################
+ Total Plausible patches: 0
+ Total time for Plausible patches in seconds: 0
+ Total time for Plausible patches in seconds: 0.0
+ Total nonvalid patches: 51
+ Total time for nonvalid patches in seconds: 571.8651630878448
+ Total time for nonvalid patches in seconds: 9.531086051464081
+
+Total patches: 51
+Total time in seconds: 571.8651630878448
+Total time in minutess: 9.531086051464081

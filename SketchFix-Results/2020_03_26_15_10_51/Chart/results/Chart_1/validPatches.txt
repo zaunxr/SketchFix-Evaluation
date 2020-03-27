@@ -1,0 +1,253 @@
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-7
+PatchTime: 14.369641304016113
+     [java] Generate 8 candidates for the type interface java.util.List: [foregroundAnnotations, backgroundAnnotations, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	foregroundAnnotations == backgroundAnnotations
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-18
+PatchTime: 14.106304168701172
+     [java] Generate 7 candidates for the type class org.jfree.chart.plot.CategoryPlot: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, plot, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-17
+PatchTime: 14.301512241363525
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryItemLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-8
+PatchTime: 14.52317500114441
+     [java] Generate 7 candidates for the type interface org.jfree.chart.labels.CategorySeriesLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, legendItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-3
+PatchTime: 13.952425479888916
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-21
+PatchTime: 14.25646710395813
+     [java] Generate 1 candidates for the type long: [null]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-16
+PatchTime: 14.909240007400513
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryItemLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-6
+PatchTime: 14.355714082717896
+     [java] Generate 8 candidates for the type interface java.util.List: [foregroundAnnotations, backgroundAnnotations, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	foregroundAnnotations == backgroundAnnotations
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-20
+PatchTime: 14.72978663444519
+     [java] Generate 1 candidates for the type long: [null]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-om-35-0
+PatchTime: 14.093749523162842
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-13
+PatchTime: 14.228162288665771
+     [java] Generate 9 candidates for the type class org.jfree.chart.util.ObjectList: [itemLabelGeneratorList, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	itemLabelGeneratorList == baseToolTipGenerator
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-0
+PatchTime: 14.730273723602295
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-2
+PatchTime: 13.54090929031372
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-20
+PatchTime: 14.444249868392944
+     [java] Generate 1 candidates for the type long: [null]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-16
+PatchTime: 14.834992408752441
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryItemLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-4
+PatchTime: 14.910045623779297
+     [java] Generate 7 candidates for the type class org.jfree.chart.LegendItemCollection: [result, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	result == baseToolTipGenerator
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-8
+PatchTime: 12.744343996047974
+     [java] Generate 7 candidates for the type interface org.jfree.chart.labels.CategorySeriesLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, legendItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-14
+PatchTime: 15.348994970321655
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryToolTipGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-0
+PatchTime: 14.394160509109497
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-6
+PatchTime: 14.846131324768066
+     [java] Generate 8 candidates for the type interface java.util.List: [foregroundAnnotations, backgroundAnnotations, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	foregroundAnnotations == backgroundAnnotations
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-12
+PatchTime: 14.663467407226562
+     [java] Generate 9 candidates for the type class org.jfree.chart.util.ObjectList: [itemLabelGeneratorList, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	itemLabelGeneratorList == baseToolTipGenerator
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-10
+PatchTime: 14.309044599533081
+     [java] Generate 6 candidates for the type interface org.jfree.chart.urls.CategoryURLGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-9
+PatchTime: 15.439066886901855
+     [java] Generate 7 candidates for the type interface org.jfree.chart.labels.CategorySeriesLabelGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, legendItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-2
+PatchTime: 14.659277439117432
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-5
+PatchTime: 13.19266939163208
+     [java] Generate 7 candidates for the type class org.jfree.chart.LegendItemCollection: [result, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	result == baseToolTipGenerator
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-14
+PatchTime: 14.253133296966553
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryToolTipGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-11
+PatchTime: 14.395196676254272
+     [java] Generate 6 candidates for the type interface org.jfree.chart.urls.CategoryURLGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-10
+PatchTime: 14.775253295898438
+     [java] Generate 6 candidates for the type interface org.jfree.chart.urls.CategoryURLGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-15
+PatchTime: 14.894450664520264
+     [java] Generate 6 candidates for the type interface org.jfree.chart.labels.CategoryToolTipGenerator: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-19
+PatchTime: 15.43503475189209
+     [java] Generate 7 candidates for the type class org.jfree.chart.plot.CategoryPlot: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, plot, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-am-35-0
+PatchTime: 13.95863151550293
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator
+     [java] Space: 1
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-35-18
+PatchTime: 12.917637825012207
+     [java] Generate 7 candidates for the type class org.jfree.chart.plot.CategoryPlot: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, plot, baseItemLabelGenerator, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-4
+PatchTime: 14.05518364906311
+     [java] Generate 7 candidates for the type class org.jfree.chart.LegendItemCollection: [result, baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	result == baseToolTipGenerator
+     [java] Space: 3
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-mem-35-0
+PatchTime: 14.087639808654785
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator
+     [java] Space: 1
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cm-35-1
+PatchTime: 14.08902382850647
+     [java] Generate 7 candidates for the type interface org.jfree.data.category.CategoryDataset: [baseToolTipGenerator, legendItemToolTipGenerator, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, dataset, null]
+     [java]  Hole 0	baseToolTipGenerator != legendItemToolTipGenerator
+     [java] Space: 4
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-cr-35-0
+PatchTime: 13.574057817459106
+
+##################################################################### 
+PatchName: AbstractCategoryItemRenderer.java-ca-34-12
+PatchTime: 13.535287857055664
+     [java] Generate 9 candidates for the type class org.jfree.chart.util.ObjectList: [itemLabelGeneratorList, baseToolTipGenerator, legendItemToolTipGenerator, toolTipGeneratorList, urlGeneratorList, legendItemURLGenerator, baseURLGenerator, baseItemLabelGenerator, null]
+     [java]  Hole 0	itemLabelGeneratorList == baseToolTipGenerator
+     [java] Space: 3
+

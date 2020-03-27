@@ -1,0 +1,12 @@
+{
+"version":2,
+"file":"m0",
+"lineCount":1,
+"lineMaps":["MAEBAB"],
+"mappings":[[0,1,0],
+[0,1,4,0],
+[0,1,8],
+],
+"sources":["i0"],
+"names":["x"]
+}

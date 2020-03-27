@@ -1,0 +1,9 @@
+##################################################################### 
+PatchName: ValueMarker.java-mem-5-12
+PatchTime: 13.64319634437561
+     [java] Generate 3 candidates for the type interface java.awt.Paint: [paint, outlinePaint, null]
+     [java] Generate 3 candidates for the type interface java.awt.Stroke: [stroke, outlineStroke, null]
+     [java]  Hole 0	outlinePaint
+     [java]  Hole 1	outlineStroke
+     [java] Space: 5
+

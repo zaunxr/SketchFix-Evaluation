@@ -1,0 +1,204 @@
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cr-3-1
+PatchTime: 16.077508211135864
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-2
+PatchTime: 12.74100637435913
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-am-3-10
+PatchTime: 11.263420820236206
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-mem-17-12
+PatchTime: 11.292004346847534
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-2
+PatchTime: 11.050868511199951
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-ca-22-2
+PatchTime: 11.672478199005127
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-am-9-0
+PatchTime: 11.05199122428894
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-am-3-7
+PatchTime: 11.176421880722046
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-16
+PatchTime: 11.227418661117554
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-om-17-1
+PatchTime: 12.367719888687134
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-am-24-2
+PatchTime: 12.114405393600464
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-8
+PatchTime: 11.52820086479187
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-0
+PatchTime: 11.10186219215393
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-am-17-7
+PatchTime: 10.69234824180603
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-mem-17-1
+PatchTime: 12.136292457580566
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-ca-6-0
+PatchTime: 9.177871704101562
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-am-3-2
+PatchTime: 11.781440019607544
+
+##################################################################### 
+PatchName: AbstractMessageFormatter.java-am-15-0
+PatchTime: 10.549114465713501
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-38
+PatchTime: 11.022851943969727
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-46
+PatchTime: 10.465006589889526
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-40
+PatchTime: 11.003283262252808
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-18
+PatchTime: 11.350192546844482
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-12
+PatchTime: 11.685208559036255
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-om-3-2
+PatchTime: 11.271343469619751
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-mem-3-2
+PatchTime: 11.112458229064941
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-32
+PatchTime: 10.330234050750732
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-22
+PatchTime: 10.487597227096558
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-6
+PatchTime: 11.990200757980347
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-44
+PatchTime: 9.932624101638794
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-0
+PatchTime: 11.14436960220337
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-mem-17-7
+PatchTime: 9.829519510269165
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-36
+PatchTime: 10.513088703155518
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-20
+PatchTime: 11.240025758743286
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-18
+PatchTime: 10.10732889175415
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-4
+PatchTime: 10.286947011947632
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-38
+PatchTime: 10.501980066299438
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-ca-20-13
+PatchTime: 11.444473266601562
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-12
+PatchTime: 10.432122230529785
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-ca-21-8
+PatchTime: 10.691901206970215
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-19-0
+PatchTime: 12.323732852935791
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-10
+PatchTime: 11.158153533935547
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-49
+PatchTime: 10.808874368667603
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-27
+PatchTime: 10.424412727355957
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-mem-6-0
+PatchTime: 11.335394620895386
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-8
+PatchTime: 10.299117088317871
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-ca-10-4
+PatchTime: 10.153573274612427
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-19-12
+PatchTime: 12.227916479110718
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-22
+PatchTime: 11.808006763458252
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-3-14
+PatchTime: 11.908423662185669
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-om-17-2
+PatchTime: 12.22878360748291
+
+##################################################################### 
+PatchName: LightweightMessageFormatter.java-cm-17-16
+PatchTime: 11.34364366531372
+

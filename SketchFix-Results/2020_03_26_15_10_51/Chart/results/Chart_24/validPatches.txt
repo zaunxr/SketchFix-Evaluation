@@ -1,0 +1,14 @@
+##################################################################### 
+PatchName: GrayPaintScale.java-am-1-0
+PatchTime: 13.293051958084106
+     [java] Generate 5 candidates for the type double: [v, value, upperBound, lowerBound, 0]
+     [java]  Hole 0	v
+     [java] Space: 1
+
+##################################################################### 
+PatchName: GrayPaintScale.java-mem-1-0
+PatchTime: 13.329869508743286
+     [java] Generate 5 candidates for the type double: [v, value, upperBound, lowerBound, 0]
+     [java]  Hole 0	v
+     [java] Space: 1
+

@@ -1,0 +1,81 @@
+##################################################################### 
+PatchName: SimplexSolver.java-ca-49-2
+PatchTime: 5.0655670166015625
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	rhs != minRatio
+     [java] Space: 104
+
+##################################################################### 
+PatchName: SimplexTableau.java-cm-23-11
+PatchTime: 3.077275514602661
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	cmp
+     [java]  Hole 1	restrictToNonNegative != false
+     [java] Space: 4
+
+##################################################################### 
+PatchName: SimplexTableau.java-cm-24-6
+PatchTime: 2.891745090484619
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	cmp
+     [java]  Hole 1	restrictToNonNegative != false
+     [java] Space: 4
+
+##################################################################### 
+PatchName: SimplexSolver.java-cm-49-3
+PatchTime: 4.8807666301727295
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	rhs != minRatio
+     [java] Space: 104
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-5-2
+PatchTime: 3.7274606227874756
+     [java] Generate 7 candidates for the type int: [i, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	i>numDecisionVariables
+     [java] Space: 9
+
+##################################################################### 
+PatchName: SimplexTableau.java-ov-23-1
+PatchTime: 3.147888422012329
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-5-0
+PatchTime: 2.6696457862854004
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+##################################################################### 
+PatchName: SimplexTableau.java-cm-23-5
+PatchTime: 6.115127086639404
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	numSlackVariables<numArtificialVariables
+     [java] Space: 94
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-23-10
+PatchTime: 3.193817377090454
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	restrictToNonNegative != false
+     [java] Space: 4
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-23-0
+PatchTime: 2.9368889331817627
+     [java] Generate 3 candidates for the type boolean: [restrictToNonNegative, false, true]
+     [java]  Hole 0	restrictToNonNegative != false
+     [java] Space: 4
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-23-4
+PatchTime: 6.2430315017700195
+     [java] Generate 6 candidates for the type int: [numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java]  Hole 0	numSlackVariables<numArtificialVariables
+     [java] Space: 94
+

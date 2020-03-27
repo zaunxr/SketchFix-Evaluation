@@ -1,0 +1,23 @@
+##################################################################### 
+PatchName: Week.java-am-14-1
+PatchTime: 12.102673292160034
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java]  Hole 0	zone
+     [java] Space: 1
+
+##################################################################### 
+PatchName: Week.java-mem-14-2
+PatchTime: 11.67991590499878
+     [java] Generate 2 candidates for the type class java.util.Date: [time, null]
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java]  Hole 0	time
+     [java]  Hole 1	zone
+     [java] Space: 1
+
+##################################################################### 
+PatchName: Week.java-mem-14-1
+PatchTime: 12.722647428512573
+     [java] Generate 2 candidates for the type class java.util.TimeZone: [zone, null]
+     [java]  Hole 0	zone
+     [java] Space: 1
+

@@ -1,0 +1,86 @@
+##################################################################### 
+PatchName: SimplexSolver.java-cm-22-1
+PatchTime: 3.168856620788574
+     [java] Generate 7 candidates for the type double: [ratio, entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	ratio>=0
+     [java] Space: 42
+
+##################################################################### 
+PatchName: SimplexSolver.java-ca-34-0
+PatchTime: 2.721980333328247
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: SimplexSolver.java-mem-24-1
+PatchTime: 2.6080338954925537
+     [java] Generate 1 candidates for the type int: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: SimplexSolver.java-ca-34-4
+PatchTime: 3.0191187858581543
+     [java] Generate 1 candidates for the type double: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: SimplexSolver.java-ca-24-0
+PatchTime: 2.4579644203186035
+     [java] Generate 1 candidates for the type double: [0]
+     [java]  Hole 0	false
+     [java] Space: 7
+
+##################################################################### 
+PatchName: SimplexSolver.java-om-24-0
+PatchTime: 2.7402238845825195
+
+##################################################################### 
+PatchName: LinearObjectiveFunction.java-ca-5-1
+PatchTime: 3.55960750579834
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java] Generate 2 candidates for the type double: [constantTerm, 0]
+     [java]  Hole 0	0
+     [java]  Hole 1	<= 
+     [java]  Hole 2	false
+     [java] Space: 128
+
+##################################################################### 
+PatchName: SimplexSolver.java-am-35-2
+PatchTime: 2.891909599304199
+     [java] Generate 4 candidates for the type double: [minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	epsilon
+     [java] Space: 2
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-12-11
+PatchTime: 3.3276073932647705
+     [java] Generate 4 candidates for the type double: [minValue, epsilon, DEFAULT_EPSILON, 0]
+     [java] Generate 2 candidates for the type interface org.apache.commons.math.linear.RealMatrix: [tableau, null]
+     [java]  Hole 0	tableau == null
+     [java]  Hole 1	epsilon
+     [java] Space: 13
+
+##################################################################### 
+PatchName: SimplexSolver.java-cm-24-1
+PatchTime: 3.296924591064453
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	entry>epsilon
+     [java] Space: 21
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-1-10
+PatchTime: 2.8326830863952637
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	entry>epsilon
+     [java] Space: 21
+
+##################################################################### 
+PatchName: SimplexSolver.java-am-24-1
+PatchTime: 2.755831241607666
+     [java] Generate 6 candidates for the type double: [entry, rhs, minRatio, epsilon, DEFAULT_EPSILON, 0]
+     [java]  Hole 0	entry
+     [java] Space: 1
+

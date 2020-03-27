@@ -1,0 +1,8 @@
+##################################################################### 
+				   RESULTS	FOR Chart
+
+ #####################################################################
+ Total Plausible patches: 0 
+ Invalid patches: 0
+ Total time for patches in seconds: 672.5383486747742
+ Total time for patches in minutes: 11.208972477912903

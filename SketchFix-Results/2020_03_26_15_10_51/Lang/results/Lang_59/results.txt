@@ -1,0 +1,14 @@
+##################################################################### 
+				       RESULTS FOR Lang_59
+
+ #####################################################################
+ Total Plausible patches: 0
+ Total time for Plausible patches in seconds: 0
+ Total time for Plausible patches in seconds: 0.0
+ Total nonvalid patches: 12
+ Total time for nonvalid patches in seconds: 10.343085765838623
+ Total time for nonvalid patches in seconds: 0.17238476276397705
+
+Total patches: 12
+Total time in seconds: 10.343085765838623
+Total time in minutess: 0.17238476276397705

@@ -1,0 +1,14 @@
+##################################################################### 
+PatchName: FastMath.java-mem-0-2
+PatchTime: 23.21771502494812
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java]  Hole 0	a
+     [java] Space: 1
+
+##################################################################### 
+PatchName: FastMath.java-am-0-2
+PatchTime: 13.626826763153076
+     [java] Generate 3 candidates for the type float: [a, b, null]
+     [java]  Hole 0	a
+     [java] Space: 1
+

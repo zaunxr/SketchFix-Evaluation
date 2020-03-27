@@ -1,0 +1,8 @@
+#Config File Similar to Defects4J build properties file
+#Classpath withoud .java in the end
+classes.modified=/main/java/CLASSPATH
+dir.src.classes=src
+dir.src.tests=src
+#The method which tests the fault.
+tests.trigger=CLASSTEST::CLASSTEST_METHOD
+output.sketch=./SF_sketches/

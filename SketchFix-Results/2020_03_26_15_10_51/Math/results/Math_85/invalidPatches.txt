@@ -1,0 +1,4 @@
+##################################################################### 
+PatchName: UnivariateRealSolverUtils.java-cm-50-3
+PatchTime: 5.5664050579071045
+

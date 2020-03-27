@@ -1,0 +1,8 @@
+##################################################################### 
+				   RESULTS	FOR Math
+
+ #####################################################################
+ Total Plausible patches: 48 
+ Invalid patches: 0
+ Total time for patches in seconds: 467.56010460853577
+ Total time for patches in minutes: 7.792668410142263

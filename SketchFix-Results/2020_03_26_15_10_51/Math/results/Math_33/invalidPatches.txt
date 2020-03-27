@@ -1,0 +1,39 @@
+##################################################################### 
+PatchName: SimplexTableau.java-ca-5-16
+PatchTime: 16.959155797958374
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-41-17
+PatchTime: 4.172104835510254
+     [java] Generate 2 candidates for the type long: [serialVersionUID, null]
+     [java] Space: 26
+
+##################################################################### 
+PatchName: SimplexSolver.java-mem-49-5
+PatchTime: 2.957683563232422
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 5
+
+##################################################################### 
+PatchName: SimplexTableau.java-cm-39-3
+PatchTime: 65.748450756073
+     [java] Generate 9 candidates for the type int: [colIndex, i, negativeVarColumn, numDecisionVariables, maxUlps, numSlackVariables, numArtificialVariables, DEFAULT_ULPS, 0]
+     [java] Generate 5 candidates for the type int: [cmp, col, DEFAULT_ULPS, maxUlps, 0]
+     [java] Space: 2440
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-14-8
+PatchTime: 1.4647552967071533
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-8-10
+PatchTime: 1.5626299381256104
+
+##################################################################### 
+PatchName: SimplexTableau.java-ov-23-0
+PatchTime: 3.2080161571502686
+     [java] Generate 3 candidates for the type double: [entry, epsilon, 0]
+     [java] Space: 3
+

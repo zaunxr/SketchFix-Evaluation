@@ -1,0 +1,14 @@
+##################################################################### 
+				       RESULTS FOR Chart_9
+
+ #####################################################################
+ Total Plausible patches: 1
+ Total time for Plausible patches in seconds: 12.725750207901001
+ Total time for Plausible patches in seconds: 0.21209583679835
+ Total nonvalid patches: 0
+ Total time for nonvalid patches in seconds: 0
+ Total time for nonvalid patches in seconds: 0.0
+
+Total patches: 1
+Total time in seconds: 12.725750207901001
+Total time in minutess: 0.21209583679835

@@ -1,0 +1,7 @@
+##################################################################### 
+PatchName: Complex.java-am-0-0
+PatchTime: 17.45783042907715
+     [java] Generate 6 candidates for the type class org.apache.commons.math3.complex.Complex: [INF, ZERO, ONE, I, NaN, null]
+     [java]  Hole 0	INF
+     [java] Space: 1
+

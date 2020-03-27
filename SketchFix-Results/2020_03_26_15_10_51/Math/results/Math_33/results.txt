@@ -1,0 +1,14 @@
+##################################################################### 
+				       RESULTS FOR Math_33
+
+ #####################################################################
+ Total Plausible patches: 11
+ Total time for Plausible patches in seconds: 43.94921398162842
+ Total time for Plausible patches in seconds: 0.732486899693807
+ Total nonvalid patches: 7
+ Total time for nonvalid patches in seconds: 96.07279634475708
+ Total time for nonvalid patches in seconds: 1.601213272412618
+
+Total patches: 18
+Total time in seconds: 140.0220103263855
+Total time in minutess: 2.333700172106425

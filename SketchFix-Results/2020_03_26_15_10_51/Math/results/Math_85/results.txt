@@ -1,0 +1,14 @@
+##################################################################### 
+				       RESULTS FOR Math_85
+
+ #####################################################################
+ Total Plausible patches: 1
+ Total time for Plausible patches in seconds: 11.506956338882446
+ Total time for Plausible patches in seconds: 0.19178260564804078
+ Total nonvalid patches: 1
+ Total time for nonvalid patches in seconds: 5.5664050579071045
+ Total time for nonvalid patches in seconds: 0.09277341763178508
+
+Total patches: 2
+Total time in seconds: 17.07336139678955
+Total time in minutess: 0.2845560232798258

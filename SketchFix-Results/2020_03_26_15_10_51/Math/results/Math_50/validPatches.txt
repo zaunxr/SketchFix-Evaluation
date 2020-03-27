@@ -1,0 +1,182 @@
+##################################################################### 
+PatchName: BaseSecantSolver.java-cm-14-1
+PatchTime: 2.934237480163574
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx>rtol
+     [java] Space: 15
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-cr-3-0
+PatchTime: 2.8436293601989746
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx>rtol
+     [java] Space: 15
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-am-3-4
+PatchTime: 2.940978765487671
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-9-8
+PatchTime: 2.9379119873046875
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-cm-7-2
+PatchTime: 2.8122670650482178
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-cm-11-5
+PatchTime: 2.9815444946289062
+     [java] Generate 2 candidates for the type class org.apache.commons.math.analysis.solvers.BaseSecantSolver$Method: [method, null]
+     [java]  Hole 0	method == null
+     [java] Space: 3
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-ca-14-0
+PatchTime: 2.8073160648345947
+     [java] Generate 2 candidates for the type class org.apache.commons.math.analysis.solvers.BaseSecantSolver$Method: [method, null]
+     [java]  Hole 0	method == null
+     [java] Space: 3
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-9-7
+PatchTime: 3.0406694412231445
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-cm-7-7
+PatchTime: 2.7951457500457764
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-am-11-4
+PatchTime: 3.265700578689575
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	f0
+     [java] Space: 7
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-9-3
+PatchTime: 3.116590738296509
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-am-11-8
+PatchTime: 2.7400662899017334
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-3-0
+PatchTime: 3.1150197982788086
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-ca-1-6
+PatchTime: 2.8870794773101807
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-cm-7-1
+PatchTime: 3.0136301517486572
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx>rtol
+     [java] Space: 15
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-9-4
+PatchTime: 2.7544190883636475
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx>rtol
+     [java] Space: 15
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-am-11-3
+PatchTime: 3.1166694164276123
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-am-3-5
+PatchTime: 2.795947313308716
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-11-8
+PatchTime: 3.106689929962158
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-cm-9-5
+PatchTime: 3.066497802734375
+     [java] Generate 2 candidates for the type class org.apache.commons.math.analysis.solvers.BaseSecantSolver$Method: [method, null]
+     [java]  Hole 0	method == null
+     [java] Space: 3
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-ca-0-5
+PatchTime: 2.846944808959961
+     [java] Generate 2 candidates for the type class org.apache.commons.math.analysis.solvers.BaseSecantSolver$Method: [method, null]
+     [java]  Hole 0	method == null
+     [java] Space: 3
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-am-3-0
+PatchTime: 3.0161828994750977
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-ca-25-4
+PatchTime: 2.7840375900268555
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx
+     [java] Space: 1
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-ca-7-0
+PatchTime: 3.2596447467803955
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx>rtol
+     [java] Space: 15
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-ca-1-0
+PatchTime: 3.0810108184814453
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx == x
+     [java] Space: 7
+
+##################################################################### 
+PatchName: BaseSecantSolver.java-mem-7-15
+PatchTime: 2.8776843547821045
+     [java] Generate 11 candidates for the type double: [fx, x, rtol, atol, ftol, f1, f0, x1, x0, DEFAULT_ABSOLUTE_ACCURACY, 0]
+     [java]  Hole 0	fx == x
+     [java] Space: 7
+

@@ -1,0 +1,8 @@
+##################################################################### 
+				   RESULTS	FOR Closure
+
+ #####################################################################
+ Total Plausible patches: 101 
+ Invalid patches: 39
+ Total time for patches in seconds: 821.654393196106
+ Total time for patches in minutes: 13.694239886601766

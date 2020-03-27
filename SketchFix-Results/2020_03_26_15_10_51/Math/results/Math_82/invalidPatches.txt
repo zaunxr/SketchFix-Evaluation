@@ -1,0 +1,42 @@
+##################################################################### 
+PatchName: SimplexSolver.java-mem-27-1
+PatchTime: 11.037114143371582
+     [java] Generate 2 candidates for the type class org.apache.commons.math.optimization.linear.SimplexTableau: [tableau, null]
+     [java] Space: 2
+
+##################################################################### 
+PatchName: SimplexSolver.java-ca-28-3
+PatchTime: 2.82609224319458
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math.optimization.RealPointValuePair: [null]
+     [java] Space: 8
+
+##################################################################### 
+PatchName: SimplexSolver.java-om-24-1
+PatchTime: 2.588320255279541
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Generate 1 candidates for the type class org.apache.commons.math.optimization.RealPointValuePair: [null]
+     [java] Space: 8
+
+##################################################################### 
+PatchName: SimplexSolver.java-ca-41-0
+PatchTime: 1.507347822189331
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-13-4
+PatchTime: 2.8386192321777344
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Space: 8
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-17-6
+PatchTime: 2.616183280944824
+     [java] Generate 1 candidates for the type double: [0]
+     [java] Space: 8
+
+##################################################################### 
+PatchName: SimplexTableau.java-ca-4-0
+PatchTime: 3.016672372817993
+     [java] Generate 1 candidates for the type int: [0]
+     [java] Space: 8
+
